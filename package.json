@@ -1,0 +1,22 @@
+{
+  "name": "savage-camera",
+  "version": "0.0.1",
+  "description": "A viewbox camera system for SVG - part of the Savage utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seattletimes/savage-camera"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Thomas Wilburn",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/seattletimes/savage-camera/issues"
+  },
+  "homepage": "https://github.com/seattletimes/savage-camera"
+}
