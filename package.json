@@ -1,6 +1,6 @@
 {
   "name": "savage-camera",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A viewbox camera system for SVG - part of the Savage utilities",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/seattletimes/savage-camera/issues"
   },
-  "homepage": "https://github.com/seattletimes/savage-camera"
+  "homepage": "https://github.com/seattletimes/savage-camera",
+  "browserify": {
+    "transform": ["babelify"]
+  }
 }
